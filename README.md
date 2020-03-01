@@ -1,7 +1,9 @@
 <p align="center">
 <img align="center" src="img/google-drive-linux-docker.jpg">
 </p>
+
 # Sync Google Drive on Linux. Command line + Docker.
+
 An quick and easy docker based solution to backup your data and sync it to the Google Drive.
 
 It will be useful for small and medium on Linux hosted websites.
