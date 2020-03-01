@@ -20,7 +20,7 @@ It will be useful for small and medium on Linux hosted websites.
    * build of Docker image
    * first run of DriveSync script:
    
-   ##### Please watch out to the output in console:
+   #### Please watch out to the output in console:
    DriveSync will ask open an long url in browser to grant access to your Google Drive. Copy this long url and open in browser, acceppt access, copy code-response and paste it back to the console.
 
 Done! You have grant access and made first synchronization. All entry of `/Backup/GoogleDrive` will be syncroniezed with Google Drive.
